@@ -6,9 +6,9 @@
 
 ## Templates
 
-- [official](https://github.com/lucyhx/h5bp-template/tree/master/web/official) - Official template.
+- [official](https://github.com/lucyhx/h5bp-template/tree/master/official) - Official template.
 
-- [simple](https://github.com/lucyhx/h5bp-template/tree/master/web/mobile) - Simplified official templates for mobile devices.
+- [simple](https://github.com/lucyhx/h5bp-template/tree/master/simple) - Simplified official templates for mobile devices.
 
 ## License
 

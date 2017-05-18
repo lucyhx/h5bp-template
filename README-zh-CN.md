@@ -6,9 +6,9 @@
 
 ## 模板
 
-- [official](https://github.com/lucyhx/h5bp-template/tree/master/web/official) - 官方模板
+- [official](https://github.com/lucyhx/h5bp-template/tree/master/official) - 官方模板
 
-- [simple](https://github.com/lucyhx/h5bp-template/tree/master/web/mobile) - 简化的官方模板，针对移动设备
+- [simple](https://github.com/lucyhx/h5bp-template/tree/master/simple) - 简化的官方模板，针对移动设备
 
 ## License
 
